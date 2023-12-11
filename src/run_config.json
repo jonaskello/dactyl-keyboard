@@ -78,7 +78,7 @@
   "fixed_x": [-41.5, -22.5, 0, 20.3, 41.4, 65.5, 89.6],
   "fixed_z": [12.1, 8.3, 0, 5, 10.7, 14.5, 17.5],
   "fixed_tenting": 0.0,
-  "plate_style": "NOTCH",
+  "plate_style": "NUB",
   "hole_keyswitch_height": 14.0,
   "hole_keyswitch_width": 14.0,
   "nub_keyswitch_height": 14.4,

@@ -1,0 +1,27 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "64",
+            "diode_angle": "-6",
+            "diode_body_length": "4",
+            "diode_body_width": "2.2000000000000002",
+            "diode_gauge_mm": "0.50800000000000001",
+            "grid": "1.27",
+            "hzExpComp": "1.1499999999999999",
+            "stem": "[0, 0, 3.8]",
+            "wire_gauge_mm": "0.55900000000000005"
+        },
+        "0.6 nozzle": {
+            "$fn": "64",
+            "diode_angle": "-6",
+            "diode_body_length": "3.7999999999999998",
+            "diode_body_width": "2.2000000000000002",
+            "diode_gauge_mm": "0.59999999999999998",
+            "grid": "1.27",
+            "hzExpComp": "1.1499999999999999",
+            "stem": "[0, 0, 3.8]",
+            "wire_gauge_mm": "0.55900000000000005"
+        }
+    }
+}
